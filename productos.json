@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-25T23:49:38.838Z",
+  "business": {
+    "id": "e95ed74d-f050-45c6-8732-5a0943257341",
+    "name": "tienda pc",
+    "slogan": "",
+    "whatsapp": "",
+    "whatsappMessage": "",
+    "logo": null,
+    "banner": null,
+    "showUsdReference": false,
+    "vesPerUsd": null,
+    "colors": {
+      "primary": "#00695c",
+      "accent": "#ffb300"
+    }
+  },
+  "products": []
+}
